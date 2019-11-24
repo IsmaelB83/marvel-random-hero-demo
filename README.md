@@ -5,6 +5,8 @@ This project is simple react app created as a demo for the npm module [marvel-ra
 ## Install
 
 ```sh
+git clone https://github.com/IsmaelB83/marvel-random-hero-demo.git
+cd marvel-random-hero-demo
 npm install 
 ```
 

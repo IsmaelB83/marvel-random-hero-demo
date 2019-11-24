@@ -1,9 +1,10 @@
 {
-  "name": "marvel-demo",
+  "name": "marvel-random-hero-demo",
   "version": "1.0.0",
-  "private": true,
+  "description": "This project is simple react app created as a demo for the npm module [marvel-random-hero](https://www.npmjs.com/package/marvel-random-hero). Marvel-random-hero is my first npm package published. I created it for the Keepcoding Bootcamp Fullstack Web Development, which I am studying at the moment.",
+  "main": "index.js",
   "dependencies": {
-    "marvel-random-hero": "^1.0.3",
+    "marvel-random-hero": "^1.1.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "3.2.0"
@@ -28,5 +29,16 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsmaelB83/marvel-random-hero-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsmaelB83/marvel-random-hero-demo/issues"
+  },
+  "homepage": "https://github.com/IsmaelB83/marvel-random-hero-demo#readme"
 }
